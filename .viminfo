@@ -12,7 +12,7 @@
 ~h
 # Command Line History (newest to oldest):
 :wq
-|2,0,1564070941,,"wq"
+|2,0,1564456676,,"wq"
 
 # Search String History (newest to oldest):
 
@@ -28,18 +28,33 @@
 |3,1,36,0,1,0,1564070935,"s"
 
 # File marks:
-'0  1  10  ~/yash.txt
-|4,48,1,10,1564070941,"~/yash.txt"
-'1  1  11  ~/yash.txt
-|4,49,1,11,1564070553,"~/yash.txt"
+'0  1  24  ~/test
+|4,48,1,24,1564456676,"~/test"
+'1  1  10  ~/yash.txt
+|4,49,1,10,1564070941,"~/yash.txt"
+'2  1  11  ~/yash.txt
+|4,50,1,11,1564070553,"~/yash.txt"
 
 # Jumplist (newest first):
+-'  1  24  ~/test
+|4,39,1,24,1564456676,"~/test"
+-'  1  10  ~/yash.txt
+|4,39,1,10,1564070941,"~/yash.txt"
 -'  1  10  ~/yash.txt
 |4,39,1,10,1564070941,"~/yash.txt"
 -'  1  11  ~/yash.txt
 |4,39,1,11,1564070553,"~/yash.txt"
+-'  1  11  ~/yash.txt
+|4,39,1,11,1564070553,"~/yash.txt"
 
 # History of marks within files (newest to oldest):
+
+> ~/test
+	*	1564456672	0
+	"	1	24
+	^	1	25
+	.	1	24
+	+	1	24
 
 > ~/yash.txt
 	*	1564070937	0
